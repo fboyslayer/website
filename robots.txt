@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /Jaden%20Hernandez%27s%20Resume.pdf
+Disallow:
